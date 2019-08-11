@@ -1,0 +1,42 @@
+{
+    "messageid":"1",
+    "serverdns":"hivision.000webhostapp.com",
+    "key":"password"
+}
+{
+    "messageid":"2",
+    "firmwareurl":"hivision.000webhostapp.com/lastFirmware.php",
+}
+
+{
+    "messageid":"3",
+    "contents":
+    [
+      {"type":"video","url":"http"},
+      {"type":"video","url":"http"}
+    ]
+}
+
+"Config id": "C000"
+"Media id": "M000"
+"Server Properties id": "S000"
+"Database id" : "D000"
+"Info id" : "I000"
+
+{"messageid":"M1A","id":"33D77W003320"}
+{"messageid":"I1U"}
+
+{
+  "messageid":"I1U",
+  "unitid":"id",
+  "model":"modelname",
+  "firmware":"firmawareversion"
+}
+{
+  "messageid":"I2",
+  "url":"http://hivisionled.red/outputFile.php",
+  "filename":"server.json"
+}
+
+[AA][31][33][37][37][31][33][31][36][31][33][39][35][BB]
+[AA][31][33][37][37][31][33][31][36][31][33][AB][AB][BB]
