@@ -1,0 +1,2 @@
+# BrightScript
+ Scripts in BrightScript
